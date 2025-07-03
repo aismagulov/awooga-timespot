@@ -1,0 +1,21 @@
+{
+  "name": "my-chrome-extension",
+  "version": "1.0.0",
+  "description": "A Chrome extension that enhances user experience.",
+  "main": "src/background.js",
+  "scripts": {
+    "build": "echo 'Building the extension...'",
+    "test": "echo 'Running tests...'",
+    "lint": "echo 'Linting the code...'"
+  },
+  "keywords": [
+    "chrome",
+    "extension",
+    "web",
+    "browser"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
